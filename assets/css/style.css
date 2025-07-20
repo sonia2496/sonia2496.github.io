@@ -1,11 +1,3 @@
-/**
-* Template Name: DevFolio
-* Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -154,19 +146,15 @@ a:hover {
   margin-bottom: 4rem;
 }
 
-<<<<<<< HEAD
 .title-box-contact {
 }
 
 
-=======
->>>>>>> a67c1a61233c795faddfe64d0ffcf7f01d7758c5
 .title-a {
   text-decoration: none;
   font-size: 3rem;
   font-weight: bold;
   text-transform: uppercase;
-<<<<<<< HEAD
   
 }
 .title-a-edu {
@@ -177,9 +165,6 @@ a:hover {
   color:white;
 }
 
-=======
-}
->>>>>>> a67c1a61233c795faddfe64d0ffcf7f01d7758c5
 
 .subtitle-a {
   text-decoration: none;
@@ -1479,7 +1464,6 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
-<<<<<<< HEAD
 }
 
 
@@ -1629,6 +1613,3 @@ footer .credits a {
     grid-template-columns: 1fr; /* 1 item per row on very small screens */
   }
 }
-=======
-}
->>>>>>> a67c1a61233c795faddfe64d0ffcf7f01d7758c5
